@@ -2,8 +2,9 @@
 
 A simple and modern multi-format file converter built with Python and Tkinter. This desktop application allows users to convert files between popular formats with an easy-to-use graphical interface.
 
-✨   Features
+✨ Features
 Convert between multiple file formats:
+
     DOCX → PDF
     PPT → PDF
     JPG → PNG
@@ -15,6 +16,9 @@ Automatic file picker based on conversion type
 Multithreaded conversion (no UI freezing)
 Progress bar during conversion
 Error handling with user-friendly messages
+🖥️ Screenshots
+
+(Add screenshots here after uploading to your repo)
 
 ⚙️ Requirements
 
@@ -26,19 +30,21 @@ Error handling with user-friendly messages
 
     pip install pillow docx2pdf pdf2docx comtypes pdf2pptx
 🚀 How to Run
-Clone the repository:\n
-    git clone https://github.com/your-username/universal-file-converter.git\n
+Clone the repository:
+
+    git clone https://github.com/your-username/universal-file-converter.git
     cd universal-file-converter
     Run the application:
-       |-python
-       |-main.py
+    python main.py
 📌 Notes
+
     Windows Recommended (for PPT → PDF conversion using PowerPoint COM interface)
     Make sure:
     Microsoft Word is installed (for DOCX → PDF)
     Microsoft PowerPoint is installed (for PPT → PDF)
 🧠 How It Works
 Uses different libraries depending on file type:
+
     docx2pdf → DOCX conversion
     pdf2docx → PDF to Word and vice-versa
     pdf2pptx → PDF to PowerPoint and vice-versa
@@ -47,13 +53,16 @@ Uses different libraries depending on file type:
     comtypes → PowerPoint automation
 Runs conversions in a separate thread to keep UI responsive
 📂 Project Structure
+
     ├── app.py              # Main application file
     ├── README.md           # Project documentation
 ⚠️ Known Issues
+
     PPT conversion only works on Windows with PowerPoint installed
     Large PDF files may take longer to process
     Some formatting may be lost in PDF → DOCX/PPT conversions
 💡 Future Improvements
+
     Drag & drop file support
     Batch file conversion
     Progress bar
@@ -68,4 +77,5 @@ Runs conversions in a separate thread to keep UI responsive
     Make your changes
     Submit a Pull Request
 📜 License
+
     This project is licensed under the MIT License.
