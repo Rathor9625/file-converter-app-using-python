@@ -2,8 +2,8 @@
 
 A simple and modern multi-format file converter built with Python and Tkinter. This desktop application allows users to convert files between popular formats with an easy-to-use graphical interface.
 
-✨ Features
-    Convert between multiple file formats:
+✨   Features
+Convert between multiple file formats:
     DOCX → PDF
     PPT → PDF
     JPG → PNG
