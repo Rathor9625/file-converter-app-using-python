@@ -11,10 +11,11 @@ A simple and modern multi-format file converter built with Python and Tkinter. T
     PDF → DOCX
     PDF → PPT
 Clean and responsive GUI (Tkinter + ttk styling)
+
 Automatic file picker based on conversion type
 Multithreaded conversion (no UI freezing)
 Progress bar during conversion
-Error handling with user-friendly messages\n
+Error handling with user-friendly messages
 
 ⚙️ Requirements
 
@@ -28,9 +29,10 @@ Error handling with user-friendly messages\n
 🚀 How to Run
 Clone the repository:\n
     git clone https://github.com/your-username/universal-file-converter.git\n
-    cd universal-file-converter\n
-    Run the application:\n
-    python main.py
+    cd universal-file-converter
+    Run the application:
+       |-python
+       |-main.py
 📌 Notes
     Windows Recommended (for PPT → PDF conversion using PowerPoint COM interface)
     Make sure:
