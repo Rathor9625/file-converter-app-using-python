@@ -3,7 +3,7 @@
 A simple and modern multi-format file converter built with Python and Tkinter. This desktop application allows users to convert files between popular formats with an easy-to-use graphical interface.
 
 ✨ Features
-Convert between multiple file formats:
+    Convert between multiple file formats:
     DOCX → PDF
     PPT → PDF
     JPG → PNG
@@ -35,10 +35,10 @@ Clone the repository:
     Run the application:
     python main.py
 📌 Notes
-Windows Recommended (for PPT → PDF conversion using PowerPoint COM interface)
-Make sure:
-Microsoft Word is installed (for DOCX → PDF)
-Microsoft PowerPoint is installed (for PPT → PDF)
+    Windows Recommended (for PPT → PDF conversion using PowerPoint COM interface)
+    Make sure:
+    Microsoft Word is installed (for DOCX → PDF)
+    Microsoft PowerPoint is installed (for PPT → PDF)
 🧠 How It Works
 Uses different libraries depending on file type:
     docx2pdf → DOCX conversion
