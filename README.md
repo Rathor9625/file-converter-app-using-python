@@ -15,9 +15,6 @@ Automatic file picker based on conversion type
 Multithreaded conversion (no UI freezing)
 Progress bar during conversion
 Error handling with user-friendly messages\n
-🖥️ Screenshots
-
-(Add screenshots here after uploading to your repo)
 
 ⚙️ Requirements
 
@@ -29,10 +26,10 @@ Error handling with user-friendly messages\n
 
     pip install pillow docx2pdf pdf2docx comtypes pdf2pptx
 🚀 How to Run
-Clone the repository:
-    git clone https://github.com/your-username/universal-file-converter.git
-    cd universal-file-converter
-    Run the application:
+Clone the repository:\n
+    git clone https://github.com/your-username/universal-file-converter.git\n
+    cd universal-file-converter\n
+    Run the application:\n
     python main.py
 📌 Notes
     Windows Recommended (for PPT → PDF conversion using PowerPoint COM interface)
