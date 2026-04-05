@@ -1,4 +1,4 @@
-*📁 Universal File Converter (Tkinter GUI)
+📁 Universal File Converter (Tkinter GUI)
 
 A simple and modern multi-format file converter built with Python and Tkinter. This desktop application allows users to convert files between popular formats with an easy-to-use graphical interface.
 
