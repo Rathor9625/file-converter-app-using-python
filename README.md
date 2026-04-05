@@ -11,7 +11,6 @@ A simple and modern multi-format file converter built with Python and Tkinter. T
     PDF → DOCX
     PDF → PPT
 Clean and responsive GUI (Tkinter + ttk styling)
-
 Automatic file picker based on conversion type
 Multithreaded conversion (no UI freezing)
 Progress bar during conversion
