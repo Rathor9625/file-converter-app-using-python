@@ -14,7 +14,7 @@ Clean and responsive GUI (Tkinter + ttk styling)
 Automatic file picker based on conversion type
 Multithreaded conversion (no UI freezing)
 Progress bar during conversion
-Error handling with user-friendly messages
+Error handling with user-friendly messages\n
 🖥️ Screenshots
 
 (Add screenshots here after uploading to your repo)
